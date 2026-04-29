@@ -1,11 +1,11 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --black: #005655;
+      --black: #005352;
       --white: #f5f2ec;
       --lime: #00e380;
-      --mid: #1a1a1a;
-      --grey: #005352;
+      --mid: #008785;
+      --grey: #008785;
       --muted: #888;
     }
 
