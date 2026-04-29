@@ -531,7 +531,7 @@
     footer {
       border-top: 1px solid var(--grey);
       padding: 2rem 2.5rem;
-      display: flex; align-items: center; 
+      display: flex; align-items: left; 
       position: relative; z-index: 1;
       flex-wrap: wrap; gap: 1rem;
     }
